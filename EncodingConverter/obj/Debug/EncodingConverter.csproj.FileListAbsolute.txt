@@ -1,0 +1,39 @@
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe.config
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.pdb
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\bin\Debug\Ude.dll
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csprojAssemblyReference.cache
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Form1.resources
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Properties.Resources.resources
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.GenerateResource.cache
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.CopyComplete
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.exe
+C:\Users\jawnoz16\OneDrive - Danderyds Kommun\Läsår 2019-2020\Programmering\MyOwnProjects\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.pdb
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe.config
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.pdb
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\bin\Debug\Ude.dll
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Form1.resources
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Properties.Resources.resources
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.GenerateResource.cache
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.CopyComplete
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.exe
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.pdb
+C:\Users\Jawad Nozari\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.AssemblyReference.cache
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe.config
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe.manifest
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.application
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.pdb
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\bin\Debug\Ude.dll
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.AssemblyReference.cache
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Form1.resources
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.Properties.Resources.resources
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.GenerateResource.cache
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.CoreCompileInputs.cache
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.exe.manifest
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.application
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.csproj.CopyComplete
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.exe
+C:\Users\mjawa\Desktop\EncodingConverter\EncodingConverter\obj\Debug\EncodingConverter.pdb
